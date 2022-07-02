@@ -4,13 +4,20 @@ In MVP, we are scoping out the numerous attributes which could be part of the en
 
 In further sprints, we could add them iteratively
 
+SpringBoot ()
+    API
+DB
+
+React 8
+    - bootstrap
+
 ## User 
 Priority 1
-    - login/signup
     - view all items
     - Search items - will do filtering on existing things
     - Add items to cart
     - Create order
+    - login/signup
 
 Priority 2
     - Make payment integration

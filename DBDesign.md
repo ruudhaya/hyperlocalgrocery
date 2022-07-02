@@ -5,8 +5,8 @@ Customers
     firstname
     lastname
     pincode
-    longitude
-    latitude
+    longitude   // Could be fetched dynamically - no need to store
+    latitude   // Could be fetched dynamically - no need to store
 
 Item
     id
