@@ -22,3 +22,22 @@ Backend
 Deployment
 	- Use any free tier
 		- Heroku / AWS
+
+
+#Analysis
+
+Min Requirement
+	- SignUp
+	- Login
+	- API to fetch store details
+	- API to fetch items details
+		- Available Quantity of 1400 items for each store, at start of day
+	- Search by Grocery Item
+	- Cart Feature
+
+Plus Features
+	- Deploy App
+		- Provide deployment URL
+	- Update each store after Buy Order
+	
+	- Integrate Payment Gateway
