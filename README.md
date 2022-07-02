@@ -41,3 +41,26 @@ Plus Features
 	- Update each store after Buy Order
 	
 	- Integrate Payment Gateway
+
+# Actors
+
+	- Customer
+		- Signup
+		- Login
+		- View Items
+		- Get nearest Store for user
+		- Add items to Cart
+		- Edit cart
+		- Order Items
+
+	- Data Maintainer
+		- Add/Update/Delete new item
+		- Add/Update/Delete new Shops
+		- Update item availability per shop
+
+	- ShopOwner
+		- Signup
+		- Login
+		- Get Pending Orders
+		- Update/Serve Order Status
+			- Upate inventory
