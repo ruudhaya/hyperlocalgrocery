@@ -29,3 +29,27 @@ Priority 1
 Not in scope
     - Shop login
 
+Not all stores will have all items
+
+Shop
+    List<Items>
+
+Order 
+    List<ItemOrder>
+
+ItemOrder
+    item
+    quantity
+
+
+Not in scope
+    - Items could be available with different MRP
+
+
+Serve orders
+    - Collect Order
+    - For each item, find the nearby store, group by shop
+    - Create shop order 
+    
+
+
